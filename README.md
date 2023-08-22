@@ -1,1 +1,1 @@
-# merkle
+## Merkle Go Library
