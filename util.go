@@ -3,7 +3,7 @@ package merkle
 import (
 	"fmt"
 )
-
+// Merkle tree
 // Prints the in-memory children recursively.
 func PrintIAVLNode(node *IAVLNode) {
 	fmt.Println("==== NODE")
